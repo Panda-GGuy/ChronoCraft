@@ -5,9 +5,7 @@ navname: About
 
 # {{ site.serverName }}
 
-Moonrise is a simple, flexible template website for Minecraft servers.
-
-[GitHub](https://github.com/coffeebank/moonrise)
+ChronoCraft is a Forge Spigot Hybrid server focused on Create / Mekanism / And other automation mods. It has a slight tinge of RPG and its frankenstein'd together to bring you an optimal gaming experience with your friends and guildmates.
 
 
 # Terms of Use
