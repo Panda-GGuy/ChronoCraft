@@ -2,8 +2,8 @@
 # Change "coffeebank" to your GitHub username
 # Change "moonrise" to your repository name
 url: "https://Panda-GGuy.github.io"
-baseurl: "/ChronoCraftSite"
-siteIcon: /media/android-chrome-192x192.png
+baseurl: "/ChronoCraft"
+siteIcon: /media/ChronoCraft_Icon.png
 siteYear: 2020
 siteFooterlink: /about
 showinSearchEngines: true
